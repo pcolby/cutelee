@@ -1,0 +1,4 @@
+<map id="Cutelee::FileSystemTemplateLoader" name="Cutelee::FileSystemTemplateLoader">
+<area shape="rect" id="node1" title="The FileSystemTemplateLoader loads Templates from the file system." alt="" coords="5,95,217,136"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1AbstractTemplateLoader.html" title="An retrieval interface to a storage location for Template objects." alt="" coords="14,5,209,47"/>
+</map>

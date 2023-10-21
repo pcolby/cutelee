@@ -1,0 +1,7 @@
+<map id="QString" name="QString">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,76,123"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1SafeString_1_1NestedString.html" title="The NestedString is a QString whose methods always return a SafeString." alt="" coords="155,5,301,47"/>
+<area shape="rect" id="node3" href="$classSafeString.html" title=" " alt="" coords="183,71,273,98"/>
+<area shape="rect" id="node4" href="$classUsingSafeString.html" title=" " alt="" coords="165,122,291,149"/>
+<area shape="rect" id="node5" href="$classWrappingSubclassSafeString_1_1Subclass.html" title=" " alt="" coords="124,173,332,215"/>
+</map>

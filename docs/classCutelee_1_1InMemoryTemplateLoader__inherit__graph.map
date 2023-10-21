@@ -1,0 +1,5 @@
+<map id="Cutelee::InMemoryTemplateLoader" name="Cutelee::InMemoryTemplateLoader">
+<area shape="rect" id="node1" title="The InMemoryTemplateLoader loads Templates set dynamically in memory." alt="" coords="5,95,212,136"/>
+<area shape="rect" id="node3" href="$classFakeTemplateLoader.html" title=" " alt="" coords="31,184,186,211"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1AbstractTemplateLoader.html" title="An retrieval interface to a storage location for Template objects." alt="" coords="11,5,206,47"/>
+</map>

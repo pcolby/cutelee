@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCutelee_1_1AbstractTemplateLoader.html" title="An retrieval interface to a storage location for Template objects." alt="" coords="5,57,200,98"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1CachingLoaderDecorator.html" title="Implements a loader decorator which caches compiled Template objects." alt="" coords="248,5,488,32"/>
+<area shape="rect" id="node3" href="$classCutelee_1_1FileSystemTemplateLoader.html" title="The FileSystemTemplateLoader loads Templates from the file system." alt="" coords="262,57,474,98"/>
+<area shape="rect" id="node4" href="$classCutelee_1_1InMemoryTemplateLoader.html" title="The InMemoryTemplateLoader loads Templates set dynamically in memory." alt="" coords="265,122,471,163"/>
+<area shape="rect" id="node5" href="$classFakeTemplateLoader.html" title=" " alt="" coords="536,129,691,156"/>
+</map>

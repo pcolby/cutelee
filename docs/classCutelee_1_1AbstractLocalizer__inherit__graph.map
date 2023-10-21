@@ -1,0 +1,4 @@
+<map id="Cutelee::AbstractLocalizer" name="Cutelee::AbstractLocalizer">
+<area shape="rect" id="node1" title="Interface for implementing an internationalization system." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1QtLocalizer.html" title="Provides internationalization based on QLocale and QTranslator." alt="" coords="25,80,178,107"/>
+</map>

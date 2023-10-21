@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCutelee_1_1AbstractMarkupBuilder.html" title="Interface for creating marked&#45;up text output." alt="" coords="5,97,233,124"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1BBCodeBuilder.html" title="Builder to create BBCode from a QTextDocument." alt="" coords="291,5,469,32"/>
+<area shape="rect" id="node3" href="$classCutelee_1_1MediaWikiMarkupBuilder.html" title="Creates MediaWiki markup from a QTextDocument." alt="" coords="281,57,479,98"/>
+<area shape="rect" id="node4" href="$classCutelee_1_1PlainTextMarkupBuilder.html" title="Creates a simple marked up plain text document." alt="" coords="287,122,473,163"/>
+<area shape="rect" id="node5" href="$classCutelee_1_1TextHTMLBuilder.html" title="The TextHTMLBuilder creates a clean html markup output." alt="" coords="285,188,475,215"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCutelee_1_1AbstractLocalizer.html" title="Interface for implementing an internationalization system." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node2" href="$classCutelee_1_1QtLocalizer.html" title="Provides internationalization based on QLocale and QTranslator." alt="" coords="245,5,399,32"/>
+</map>

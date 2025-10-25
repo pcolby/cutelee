@@ -1,5 +1,7 @@
 <map id="templates/lib/typeaccessor.h" name="templates/lib/typeaccessor.h">
-<area shape="rect" id="node1" title=" " alt="" coords="96,5,305,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,209,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="234,80,357,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,305,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,209,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,33,135,72,132,68,184,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="234,79,357,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,29,270,68,267,72,214,33"/>
 </map>

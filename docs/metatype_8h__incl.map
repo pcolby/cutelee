@@ -1,7 +1,12 @@
 <map id="templates/lib/metatype.h" name="templates/lib/metatype.h">
-<area shape="rect" id="node1" title=" " alt="" coords="111,5,298,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,155,209,181"/>
-<area shape="rect" id="node3" href="$typeaccessor_8h.html" title=" " alt="" coords="145,80,264,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="288,80,415,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="234,155,357,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,5,298,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,209,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,33,161,53,136,80,122,109,114,139,109,138,117,108,132,77,157,49,184,29"/>
+<area shape="rect" id="Node000003" href="$typeaccessor_8h.html" title=" " alt="" coords="145,79,264,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,31,207,65,202,65,202,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="288,79,415,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="229,28,316,70,314,75,227,33"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="191,106,136,146,133,141,187,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="234,152,357,177"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="221,102,271,141,268,145,218,106"/>
 </map>

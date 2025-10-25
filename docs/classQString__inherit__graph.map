@@ -1,7 +1,11 @@
 <map id="QString" name="QString">
-<area shape="rect" id="node1" title=" " alt="" coords="5,97,76,123"/>
-<area shape="rect" id="node2" href="$classCutelee_1_1SafeString_1_1NestedString.html" title="The NestedString is a QString whose methods always return a SafeString." alt="" coords="155,5,301,47"/>
-<area shape="rect" id="node3" href="$classSafeString.html" title=" " alt="" coords="183,71,273,98"/>
-<area shape="rect" id="node4" href="$classUsingSafeString.html" title=" " alt="" coords="165,122,291,149"/>
-<area shape="rect" id="node5" href="$classWrappingSubclassSafeString_1_1Subclass.html" title=" " alt="" coords="124,173,332,215"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,76,121"/>
+<area shape="rect" id="Node000002" href="$classCutelee_1_1SafeString_1_1NestedString.html" title="The NestedString is a QString whose methods always return a SafeString." alt="" coords="155,5,301,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,85,123,55,154,43,156,48,125,60,73,90"/>
+<area shape="rect" id="Node000003" href="$classSafeString.html" title=" " alt="" coords="183,70,273,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,99,183,86,183,91,90,104"/>
+<area shape="rect" id="Node000004" href="$classUsingSafeString.html" title=" " alt="" coords="165,119,291,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="90,112,165,121,164,127,89,117"/>
+<area shape="rect" id="Node000005" href="$classWrappingSubclassSafeString_1_1Subclass.html" title=" " alt="" coords="124,169,332,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="75,126,125,154,159,167,157,172,123,158,72,131"/>
 </map>

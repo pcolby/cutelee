@@ -1,13 +1,27 @@
 <map id="templates/lib/util.h" name="templates/lib/util.h">
-<area shape="rect" id="node1" title="Utility functions used throughout Cutelee." alt="" coords="561,5,706,32"/>
-<area shape="rect" id="node2" href="$context_8h_source.html" title=" " alt="" coords="289,80,372,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="407,229,611,256"/>
-<area shape="rect" id="node9" href="$safestring_8h_source.html" title=" " alt="" coords="659,80,757,107"/>
-<area shape="rect" id="node11" title=" " alt="" coords="822,155,949,181"/>
-<area shape="rect" id="node3" href="$abstractlocalizer_8h_source.html" title=" " alt="" coords="76,155,217,181"/>
-<area shape="rect" id="node7" title=" " alt="" coords="292,155,369,181"/>
-<area shape="rect" id="node8" title=" " alt="" coords="393,155,553,181"/>
-<area shape="rect" id="node5" title=" " alt="" coords="5,229,128,256"/>
-<area shape="rect" id="node6" title=" " alt="" coords="153,229,303,256"/>
-<area shape="rect" id="node10" title=" " alt="" coords="679,155,798,181"/>
+<area shape="rect" id="Node000001" title="Utility functions used throughout Cutelee." alt="" coords="561,5,706,31"/>
+<area shape="rect" id="Node000002" href="$context_8h_source.html" title=" " alt="" coords="289,79,372,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,33,386,80,385,75,584,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="407,225,611,251"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="632,32,609,96,591,138,568,179,535,217,531,214,563,176,586,136,604,94,627,30"/>
+<area shape="rect" id="Node000009" href="$safestring_8h_source.html" title=" " alt="" coords="659,79,757,104"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="647,29,688,67,684,71,643,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="822,152,949,177"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="666,28,716,49,771,76,821,109,863,141,859,145,818,113,768,81,713,54,663,33"/>
+<area shape="rect" id="Node000003" href="$abstractlocalizer_8h_source.html" title=" " alt="" coords="76,152,217,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,107,191,149,189,144,300,102"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="317,106,300,121,285,139,277,158,278,167,282,176,301,190,331,202,410,220,408,226,330,207,298,194,278,179,273,169,272,158,280,137,296,117,313,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="292,152,369,177"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="333,104,333,138,328,138,328,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="393,152,553,177"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="355,102,439,143,437,148,352,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,175,438,220,437,225,204,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,225,128,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="136,179,92,218,88,214,132,175"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="153,225,303,251"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="161,175,206,214,203,218,158,179"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="698,106,660,140,611,180,545,221,542,216,608,175,656,136,694,102"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="679,152,798,177"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="716,103,731,139,726,141,711,105"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="737,102,845,144,843,149,736,106"/>
 </map>

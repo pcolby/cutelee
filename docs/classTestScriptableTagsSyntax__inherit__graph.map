@@ -1,5 +1,8 @@
 <map id="TestScriptableTagsSyntax" name="TestScriptableTagsSyntax">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,192,181"/>
-<area shape="rect" id="node2" href="$classCoverageObject.html" title=" " alt="" coords="35,80,162,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="61,5,136,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,192,177"/>
+<area shape="rect" id="Node000002" href="$classCoverageObject.html" title=" " alt="" coords="35,79,162,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,136,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,44,94,78,89,79,87,45"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="110,45,108,79,103,78,105,44"/>
 </map>

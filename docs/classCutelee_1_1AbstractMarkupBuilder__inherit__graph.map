@@ -1,7 +1,11 @@
 <map id="Cutelee::AbstractMarkupBuilder" name="Cutelee::AbstractMarkupBuilder">
-<area shape="rect" id="node1" title="Interface for creating marked&#45;up text output." alt="" coords="5,97,233,124"/>
-<area shape="rect" id="node2" href="$classCutelee_1_1BBCodeBuilder.html" title="Builder to create BBCode from a QTextDocument." alt="" coords="291,5,469,32"/>
-<area shape="rect" id="node3" href="$classCutelee_1_1MediaWikiMarkupBuilder.html" title="Creates MediaWiki markup from a QTextDocument." alt="" coords="281,57,479,98"/>
-<area shape="rect" id="node4" href="$classCutelee_1_1PlainTextMarkupBuilder.html" title="Creates a simple marked up plain text document." alt="" coords="287,122,473,163"/>
-<area shape="rect" id="node5" href="$classCutelee_1_1TextHTMLBuilder.html" title="The TextHTMLBuilder creates a clean html markup output." alt="" coords="285,188,475,215"/>
+<area shape="rect" id="Node000001" title="Interface for creating marked&#45;up text output." alt="" coords="5,95,233,120"/>
+<area shape="rect" id="Node000002" href="$classCutelee_1_1BBCodeBuilder.html" title="Builder to create BBCode from a QTextDocument." alt="" coords="291,5,469,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,87,280,41,324,28,326,33,282,46,163,92"/>
+<area shape="rect" id="Node000003" href="$classCutelee_1_1MediaWikiMarkupBuilder.html" title="Creates MediaWiki markup from a QTextDocument." alt="" coords="281,55,479,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,90,281,85,281,90,237,96"/>
+<area shape="rect" id="Node000004" href="$classCutelee_1_1PlainTextMarkupBuilder.html" title="Creates a simple marked up plain text document." alt="" coords="287,119,473,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,119,287,125,286,131,236,124"/>
+<area shape="rect" id="Node000005" href="$classCutelee_1_1TextHTMLBuilder.html" title="The TextHTMLBuilder creates a clean html markup output." alt="" coords="285,184,475,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="163,123,282,169,326,181,324,186,280,174,161,128"/>
 </map>

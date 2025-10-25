@@ -1,7 +1,11 @@
 <map id="Cutelee::AbstractTemplateLoader" name="Cutelee::AbstractTemplateLoader">
-<area shape="rect" id="node1" title="An retrieval interface to a storage location for Template objects." alt="" coords="5,57,200,98"/>
-<area shape="rect" id="node2" href="$classCutelee_1_1CachingLoaderDecorator.html" title="Implements a loader decorator which caches compiled Template objects." alt="" coords="248,5,488,32"/>
-<area shape="rect" id="node3" href="$classCutelee_1_1FileSystemTemplateLoader.html" title="The FileSystemTemplateLoader loads Templates from the file system." alt="" coords="262,57,474,98"/>
-<area shape="rect" id="node4" href="$classCutelee_1_1InMemoryTemplateLoader.html" title="The InMemoryTemplateLoader loads Templates set dynamically in memory." alt="" coords="265,122,471,163"/>
-<area shape="rect" id="node5" href="$classFakeTemplateLoader.html" title=" " alt="" coords="536,129,691,156"/>
+<area shape="rect" id="Node000001" title="An retrieval interface to a storage location for Template objects." alt="" coords="5,55,200,95"/>
+<area shape="rect" id="Node000002" href="$classCutelee_1_1CachingLoaderDecorator.html" title="Implements a loader decorator which caches compiled Template objects." alt="" coords="248,5,488,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,50,247,41,306,28,307,33,249,46,207,55"/>
+<area shape="rect" id="Node000003" href="$classCutelee_1_1FileSystemTemplateLoader.html" title="The FileSystemTemplateLoader loads Templates from the file system." alt="" coords="262,55,474,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,73,262,73,262,78,214,78"/>
+<area shape="rect" id="Node000004" href="$classCutelee_1_1InMemoryTemplateLoader.html" title="The InMemoryTemplateLoader loads Templates set dynamically in memory." alt="" coords="265,119,471,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,96,285,117,284,122,199,101"/>
+<area shape="rect" id="Node000005" href="$classFakeTemplateLoader.html" title=" " alt="" coords="536,127,691,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,137,536,137,536,142,485,142"/>
 </map>
